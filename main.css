@@ -5,3 +5,30 @@ body {
     margin-right: auto;
     width: 1800px;
 }
+.Titulo h1 {
+    font-family:  MEDIEVAL ;
+    padding-bottom: 0;
+}
+
+.Titulo h2 {
+    font-family:  MEDIEVAL ;
+    padding-top: 3px;
+}
+
+.Titulo h3 {
+    font-family:  MEDIEVAL ;
+}
+.footer {
+    padding: 20px;
+    text-align: center;
+    background: #ddd;
+    margin-top: 20px;
+    background-color: #829C53;
+}
+.Extra a{
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    max-width: 300px;
+    padding: 5px 0;
+}
