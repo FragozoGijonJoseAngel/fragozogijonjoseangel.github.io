@@ -36,6 +36,31 @@ p {
     color: #272625;
     text-transform: uppercase;
 }
+.Opinion h1 {
+    font-family:  MEDIEVAL ;
+    padding-bottom: 15px;
+    font-size: 35px;
+    text-align: center;
+    color: #272625;
+    text-transform: uppercase;
+}
+.Glosario h2, h3{
+    font-family:  MEDIEVAL ;
+    padding-bottom: 15px;
+    font-size: 35px;
+    text-align: center;
+    color: #272625;
+    text-transform: uppercase;
+}
+.Glosario h3, h2{
+    font-family:  MEDIEVAL ;
+    padding-bottom: 15px;
+    font-size: 35px;
+    text-align: center;
+    color: #272625;
+    text-transform: uppercase;
+}
+
 .footer {
     padding: 20px;
     text-align: center;
