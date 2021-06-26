@@ -6,27 +6,69 @@ body {
     background: #CAE894;
     width: 1800px;
 }
+.Barra {
+    padding: 1rem 5rem;
+    position: sticky;
+    top: 1px;
+}
+nav {
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: center;
+    margin: 0 5rem;
+}
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    display: inline-block;
+    justify-content: space-between;
+    align-items: center;
+}
+.item {
+    color: #272625;
+    margin: 0 1rem;
+    font-size: 30px;
+    text-decoration: none;
+}
+
 .Titulo h1 {
     font-family:  MEDIEVAL ;
+    font-weight: 500;
     font-size: 60px;
     padding-bottom: 0;
 }
 
 .Titulo h2 {
     font-family:  MEDIEVAL ;
+    font-weight: 500;
     font-size: 45px;
     padding-top: 3px;
 }
 
 .Titulo h3 {
     font-family:  MEDIEVAL ;
+    font-weight: 500;
     font-size: 40px;
+}
+#imgenConejo {
+    max-width:98%;
+    height:auto;
+    border: 10px solid #829C53;
 }
 p {
     font-size: 210%;
     max-width: 90rem;
     margin: 0 auto 0.5em;
     text-align: justify;
+}
+.espacio {
+    max-width: 43rem;
+    height: 4rem;
+    margin: 0 auto 0.45em;
 }
 .Cuerpo h3{
     font-family:  MEDIEVAL ;
