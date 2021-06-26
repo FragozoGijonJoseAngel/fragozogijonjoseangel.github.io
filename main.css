@@ -28,7 +28,14 @@ p {
     margin: 0 auto 0.5em;
     text-align: justify;
 }
-
+.Cuerpo h3{
+    font-family:  MEDIEVAL ;
+    padding-bottom: 15px;
+    font-size: 35px;
+    text-align: center;
+    color: #272625;
+    text-transform: uppercase;
+}
 .footer {
     padding: 20px;
     text-align: center;
