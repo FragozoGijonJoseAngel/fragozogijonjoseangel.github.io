@@ -8,17 +8,27 @@ body {
 }
 .Titulo h1 {
     font-family:  MEDIEVAL ;
+    font-size: 60px;
     padding-bottom: 0;
 }
 
 .Titulo h2 {
     font-family:  MEDIEVAL ;
+    font-size: 45px;
     padding-top: 3px;
 }
 
 .Titulo h3 {
     font-family:  MEDIEVAL ;
+    font-size: 40px;
 }
+p {
+    font-size: 210%;
+    max-width: 90rem;
+    margin: 0 auto 0.5em;
+    text-align: justify;
+}
+
 .footer {
     padding: 20px;
     text-align: center;
@@ -32,4 +42,6 @@ body {
     text-align: center;
     max-width: 300px;
     padding: 5px 0;
+    margin: 0 8.5em;
+    padding: 1rem 41rem;
 }
